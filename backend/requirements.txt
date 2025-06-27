@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pymongo
+motor
+bcrypt
+python-jose[cryptography]
+pydantic
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+sentence-transformers
+chromadb
+pypdf
+python-dotenv
+python-multipart
+pip install pydantic[email]
